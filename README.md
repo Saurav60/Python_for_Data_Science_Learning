@@ -7,7 +7,7 @@ This repository is a collection of my practice notebooks and projects as I learn
 - Python fundamentals and problem-solving
 - Data manipulation with Pandas
 - Data visualization with Matplotlib and Seaborn
-- Working with SQL for data analysis
+
 
 
 ## 🔧 Tools and Technologies
