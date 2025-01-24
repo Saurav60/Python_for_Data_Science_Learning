@@ -1,6 +1,6 @@
 # Python for Data Science Learning 📊🐍
 
-Welcome to **Python for Data Science Learning**! This repository is a collection of Jupyter notebooks documenting my journey of learning Python for data science. Here, I explore various Python libraries, techniques, and concepts related to data analysis and visualization. It reflects my progress, challenges, and the knowledge I've gained as I move towards mastering data science, with a future goal of diving into machine learning.
+Welcome to **Python for Data Science Learning**! This repository is a collection of Jupyter notebooks and Python files documenting my learning of Python for data science. Here, I explore various Python libraries, techniques, and concepts related to data analysis and visualization. It reflects my progress, challenges, and the knowledge I've gained as I move towards mastering data science, with a future goal of diving into machine learning.
 
 ---
 
@@ -16,7 +16,7 @@ This repository serves as:
 
 ## 🗂️ Repository Structure
 
-The repository is organized into folders and notebooks based on specific topics or libraries:
+The repository is organized into folders files and notebooks based on specific topics or libraries:
 
 
 ---
@@ -35,7 +35,7 @@ This repository uses the following Python libraries and tools:
 
 ## ✨ Features
 
-- Beginner to intermediate-level notebooks with examples and explanations.
+- Beginner to intermediate-level notebooks and python code files with examples and explanations.
 - Focus on practical data science concepts like:
   - Data cleaning
   - Exploratory data analysis (EDA)
